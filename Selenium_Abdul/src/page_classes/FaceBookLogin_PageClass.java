@@ -29,7 +29,7 @@ public class FaceBookLogin_PageClass {
 	
 	public void LoginToFacebbok() throws InterruptedException {
 		Thread.sleep(2000);
-		Username.sendKeys("6466518570");
+		Username.sendKeys("646651857088");
 		Thread.sleep(2000);
 		password.sendKeys("Majid3829");
 		Thread.sleep(2000);
